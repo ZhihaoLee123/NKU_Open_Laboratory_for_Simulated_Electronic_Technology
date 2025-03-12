@@ -1,2 +1,3 @@
 # NKU_Open_Laboratory_for_Simulated_Electronic_Technology
 模电实验
+模电实验报告是手写版，忘记拍了。。所以只有开放实验的实验报告
